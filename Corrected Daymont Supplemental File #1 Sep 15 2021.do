@@ -5,7 +5,7 @@ Code documentation is provided in Supplemental File #3. Numbered headings in thi
 numbered headings in that document. The following reference datasets needed to run the algorithm are available 
 in Supplemental File #4: growthfile_cdc_ext, tanner_ht_vel_rev, who_ht_vel_3sd, who_ht_maxvel_3sd.
 
-	Please note that this code runs on Ma
+Please note that this Stata code currently runs only on Mac and does not work on Windows. 
 
 */
 
