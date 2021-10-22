@@ -12,7 +12,7 @@ Supplemental File 2: Updated code available at https://github.com/carriedaymont/
 
 Supplemental File 3: Updated files (clean and tracked changes) available on this repository. This is the original algorithm specifications or "English instructions" that were used to translate the algorithm from Stata into R. The corrected method for addressing subjects with no nonduplicate values and no measurements for the other parameter in step 12ei are described in this updated document. As with supplemental file 1, the additional updates that have been made to the R code are not addressed in this supplemental file. 
 
-Supplemental File 4: Updated files available at https://github.com/carriedaymont/growthcleanr. There were several small errors in the WHO height velocity tables. Corrected versions are now available at the growthcleanr repository. These tables affect one step of the algorithm, and we identified very small differences when growthcleanr was run with the original vs updated tables. 
+Supplemental File 4: Updated files available at https://github.com/carriedaymont/growthcleanr. There were errors in three total rows of the two WHO height velocity tables. Corrected versions are now available at the growthcleanr repository. These tables affect one step of the algorithm, and we identified very small differences when growthcleanr was run with the original vs updated tables. 
 
 Supplemental File 5: No updated files. This document described one component of validation of the algorithm. 
 
