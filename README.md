@@ -1,6 +1,6 @@
 # original-algorithm-paper-corrections
 
-This repository contains corrected supplemental files for the paper "Automated identification of implausible values in growth data from pediatric electronic health records" in the Journal of the American Medical Informatics Association, Volume 24, Issue 6, November 2017, Pages 1080–1087, https://doi.org/10.1093/jamia/ocx037 by Daymont et al. 
+This repository contains corrected supplemental files for the paper "Automated identification of implausible values in growth data from pediatric electronic health records" in the Journal of the American Medical Informatics Association, Volume 24, Issue 6, November 2017, Pages 1080–1087 by Daymont et al. 
 
 https://academic.oup.com/jamia/article/24/6/1080/3767271
 
